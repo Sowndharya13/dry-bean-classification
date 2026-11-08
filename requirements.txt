@@ -1,5 +1,5 @@
 streamlit
-scikit-learn==<your version>
+scikit-learn==1.9.1
 pandas
 numpy
 matplotlib
